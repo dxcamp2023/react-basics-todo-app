@@ -6,6 +6,7 @@ export const TodoItem = () => {
         <input type="checkbox" />
       </div>
       <span>Task</span>
+      <button>Edit</button>
       <button>X</button>
     </div>
   );
